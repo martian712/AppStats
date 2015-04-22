@@ -1,0 +1,6 @@
+Users:
+All users can view, sort, and search (filter) the applications without logging in.  
+Admins can also approve or reject submitted apps, with comments, and assign passwords? 
+Moderators can moderate the comment section for apps by deleting posts.  
+Administrators can be moderators, and all are users.  
+All users must login in order to post on forums.  
