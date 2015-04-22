@@ -4,3 +4,13 @@ Admins can also approve or reject submitted apps, with comments, and assign pass
 Moderators can moderate the comment section for apps by deleting posts.  
 Administrators can be moderators, and all are users.  
 All users must login in order to post on forums.  
+
+Applications:
+Apps have the following attributes:
+	 - name
+	 - developers
+	 - platforms supported
+	 - versions supported
+	 - link to app store
+	 - link to picture
+	 - price
